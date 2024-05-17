@@ -3,10 +3,12 @@ Ingredients:
 - 1 lime
 - 2 tsp salt
 - jalapeno to taste
+- garlic
 
 Instructions:
 - cut and mash avocados
 - chop jalapeno
+- crush, mince, and add garlic
 - squeeze lime
 - add salt
 - and mix well
